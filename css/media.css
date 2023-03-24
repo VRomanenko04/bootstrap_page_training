@@ -1,0 +1,32 @@
+@media (max-width: 376px) {
+    .join_btn1 {
+        padding: 10px 20px;
+    }
+    .join_btn2 {
+        padding: 10px 20px;
+    }
+    .header_section h3 {
+        font-size: 32px;
+        line-height: 40px;
+    }
+    .man_card {
+        width: 300px;
+        height: 420px;
+    }
+    .trending_card {
+        margin-bottom: 70px;
+    }
+}
+
+@media (min-width: 377px) and (max-width: 500px) {
+    .trending_card {
+        margin-bottom: 70px;
+    }
+    .second_section,
+    .third_section,
+    .fourth_section,
+    .fifth_section,
+    .six_section {
+        margin-top: 100px;
+    }
+}
